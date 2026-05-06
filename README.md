@@ -26,25 +26,6 @@ DS_cone/
 └── optim/                     # Riemannian optimizers
 ```
 
-## Installation
-
-Create or activate a Python 3.11 environment, then install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-To use the existing local environment, pass the Python interpreter through `PYTHON`:
-
-```bash
-PYTHON="/warehouse/ruinanli_resource/py311/bin/python" ./best_fb15k.sh
-```
-
-The GPU device can be overridden through `DEVICE`:
-
-```bash
-PYTHON="/warehouse/ruinanli_resource/py311/bin/python" DEVICE=cuda:1 ./best_wn18rr.sh
-```
 
 ## Quick Start
 
@@ -65,31 +46,6 @@ Train and evaluate on CoDEx-M or CoDEx-L:
 ```bash
 ./run_codexm.sh
 ./run_codexl.sh
-```
-
-By default, training logs and checkpoints are written under `logs/`. Use `--no_log` or `--no_checkpoint` to disable them.
-
-## Best Results
-
-This repository includes best-configuration launchers for each dataset, but no committed final result logs were found. The table below records the best available reproduction configurations. Fill in the actual `MRR` and `Hits@K` values after running the corresponding script and reading the printed `Test Result`.
-
-| Dataset | Launcher | Dim | Epochs | Batch | Negatives | LR | Valid Step | Best MRR | Hits@1 | Hits@3 | Hits@10 |
-| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| FB15k-237 | `best_fb15k.sh` | 256 | 200 | 512 | 100 | 0.00717548 | 25 | TBD | TBD | TBD | TBD |
-| WN18RR | `best_wn18rr.sh` | 256 | 200 | 512 | 200 | 0.0343 | 50 | TBD | TBD | TBD | TBD |
-| CoDEx-M | `run_codexm.sh` | 256 | 200 | 512 | 200 | 0.005 | 25 | TBD | TBD | TBD | TBD |
-| CoDEx-L | `run_codexl.sh` | 256 | 200 | 512 | 200 | 0.05 | 25 | TBD | TBD | TBD | TBD |
-
-Test metrics are printed in this format:
-
-```text
-Test Result
-Best it:<epoch>
-Hit@10:<value>
-Hit@3:<value>
-Hit@1:<value>
-MRR:<value>
-PrunedNodes:<value>
 ```
 
 ## Main Options
@@ -116,17 +72,3 @@ Semantic cone and multi-hop reasoning options:
 - `--K_max`: maximum hop depth.
 - `--agg_lambda`: residual coefficient for neighborhood aggregation.
 
-## Data Format
-
-Each dataset folder should contain:
-
-```text
-train.txt
-valid.txt
-test.txt
-entities.dict
-relations.dict
-relation_names.txt
-```
-
-Triple files use whitespace-separated `(head, relation, tail)` rows. `load_data.py` automatically augments each split with reverse relations by appending `_reverse` to relation names.
