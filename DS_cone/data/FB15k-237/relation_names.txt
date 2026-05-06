@@ -1,0 +1,474 @@
+/american_football/football_team/current_roster./sports/sports_team_roster/position	american_football football_team current_roster sports sports_team_roster position
+/american_football/football_team/current_roster./sports/sports_team_roster/position_reverse	inverse of american_football football_team current_roster sports sports_team_roster position
+/award/award_category/category_of	award award_category category_of
+/award/award_category/category_of_reverse	inverse of award award_category category_of
+/award/award_category/disciplines_or_subjects	award award_category disciplines_or_subjects
+/award/award_category/disciplines_or_subjects_reverse	inverse of award award_category disciplines_or_subjects
+/award/award_category/nominees./award/award_nomination/nominated_for	award award_category nominees award_nomination nominated_for
+/award/award_category/nominees./award/award_nomination/nominated_for_reverse	inverse of award award_category nominees award_nomination nominated_for
+/award/award_category/winners./award/award_honor/award_winner	award award_category winners award_honor award_winner
+/award/award_category/winners./award/award_honor/award_winner_reverse	inverse of award award_category winners award_honor award_winner
+/award/award_category/winners./award/award_honor/ceremony	award award_category winners award_honor ceremony
+/award/award_category/winners./award/award_honor/ceremony_reverse	inverse of award award_category winners award_honor ceremony
+/award/award_ceremony/awards_presented./award/award_honor/award_winner	award award_ceremony awards_presented award_honor award_winner
+/award/award_ceremony/awards_presented./award/award_honor/award_winner_reverse	inverse of award award_ceremony awards_presented award_honor award_winner
+/award/award_ceremony/awards_presented./award/award_honor/honored_for	award award_ceremony awards_presented award_honor honored_for
+/award/award_ceremony/awards_presented./award/award_honor/honored_for_reverse	inverse of award award_ceremony awards_presented award_honor honored_for
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	award award_nominated_work award_nominations award_nomination nominated_for
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for_reverse	inverse of award award_nominated_work award_nominations award_nomination nominated_for
+/award/award_nominee/award_nominations./award/award_nomination/award	award award_nominee award_nominations award_nomination
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	award award_nominee award_nominations award_nomination
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee_reverse	inverse of award award_nominee award_nominations award_nomination
+/award/award_nominee/award_nominations./award/award_nomination/award_reverse	inverse of award award_nominee award_nominations award_nomination
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	award award_nominee award_nominations award_nomination nominated_for
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for_reverse	inverse of award award_nominee award_nominations award_nomination nominated_for
+/award/award_winner/awards_won./award/award_honor/award_winner	award award_winner awards_won award_honor
+/award/award_winner/awards_won./award/award_honor/award_winner_reverse	inverse of award award_winner awards_won award_honor
+/award/award_winning_work/awards_won./award/award_honor/award	award award_winning_work awards_won award_honor
+/award/award_winning_work/awards_won./award/award_honor/award_reverse	inverse of award award_winning_work awards_won award_honor
+/award/award_winning_work/awards_won./award/award_honor/award_winner	award award_winning_work awards_won award_honor award_winner
+/award/award_winning_work/awards_won./award/award_honor/award_winner_reverse	inverse of award award_winning_work awards_won award_honor award_winner
+/award/award_winning_work/awards_won./award/award_honor/honored_for	award award_winning_work awards_won award_honor honored_for
+/award/award_winning_work/awards_won./award/award_honor/honored_for_reverse	inverse of award award_winning_work awards_won award_honor honored_for
+/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	award hall_of_fame inductees hall_of_fame_induction inductee
+/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee_reverse	inverse of award hall_of_fame inductees hall_of_fame_induction inductee
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	award ranked_item appears_in_ranked_lists ranking list
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list_reverse	inverse of award ranked_item appears_in_ranked_lists ranking list
+/base/aareas/schema/administrative_area/administrative_area_type	base aareas schema administrative_area administrative_area_type
+/base/aareas/schema/administrative_area/administrative_area_type_reverse	inverse of base aareas schema administrative_area administrative_area_type
+/base/aareas/schema/administrative_area/administrative_parent	base aareas schema administrative_area administrative_parent
+/base/aareas/schema/administrative_area/administrative_parent_reverse	inverse of base aareas schema administrative_area administrative_parent
+/base/aareas/schema/administrative_area/capital	base aareas schema administrative_area capital
+/base/aareas/schema/administrative_area/capital_reverse	inverse of base aareas schema administrative_area capital
+/base/americancomedy/celebrity_impressionist/celebrities_impersonated	base americancomedy celebrity_impressionist celebrities_impersonated
+/base/americancomedy/celebrity_impressionist/celebrities_impersonated_reverse	inverse of base americancomedy celebrity_impressionist celebrities_impersonated
+/base/biblioness/bibs_location/country	base biblioness bibs_location country
+/base/biblioness/bibs_location/country_reverse	inverse of base biblioness bibs_location country
+/base/biblioness/bibs_location/state	base biblioness bibs_location state
+/base/biblioness/bibs_location/state_reverse	inverse of base biblioness bibs_location state
+/base/culturalevent/event/entity_involved	base culturalevent event entity_involved
+/base/culturalevent/event/entity_involved_reverse	inverse of base culturalevent event entity_involved
+/base/eating/practicer_of_diet/diet	base eating practicer_of_diet diet
+/base/eating/practicer_of_diet/diet_reverse	inverse of base eating practicer_of_diet diet
+/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	base localfood seasonal_month produce_available produce_availability seasonal_months
+/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months_reverse	inverse of base localfood seasonal_month produce_available produce_availability seasonal_months
+/base/locations/continents/countries_within	base locations continents countries_within
+/base/locations/continents/countries_within_reverse	inverse of base locations continents countries_within
+/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team	base marchmadness ncaa_basketball_tournament seeds ncaa_tournament_seed team
+/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team_reverse	inverse of base marchmadness ncaa_basketball_tournament seeds ncaa_tournament_seed team
+/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	base petbreeds city_with_dogs top_breeds dog_city_relationship dog_breed
+/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed_reverse	inverse of base petbreeds city_with_dogs top_breeds dog_city_relationship dog_breed
+/base/popstra/celebrity/breakup./base/popstra/breakup/participant	base popstra celebrity breakup participant
+/base/popstra/celebrity/breakup./base/popstra/breakup/participant_reverse	inverse of base popstra celebrity breakup participant
+/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	base popstra celebrity canoodled participant
+/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant_reverse	inverse of base popstra celebrity canoodled participant
+/base/popstra/celebrity/dated./base/popstra/dated/participant	base popstra celebrity dated participant
+/base/popstra/celebrity/dated./base/popstra/dated/participant_reverse	inverse of base popstra celebrity dated participant
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant	base popstra celebrity friendship participant
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant_reverse	inverse of base popstra celebrity friendship participant
+/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	base popstra location vacationers vacation_choice vacationer
+/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer_reverse	inverse of base popstra location vacationers vacation_choice vacationer
+/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members	base saturdaynightlive snl_cast_member seasons snl_season_tenure cast_members
+/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members_reverse	inverse of base saturdaynightlive snl_cast_member seasons snl_season_tenure cast_members
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	base schemastaging organization_extra phone_number phone_sandbox contact_category
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category_reverse	inverse of base schemastaging organization_extra phone_number phone_sandbox contact_category
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	base schemastaging organization_extra phone_number phone_sandbox service_language
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language_reverse	inverse of base schemastaging organization_extra phone_number phone_sandbox service_language
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	base schemastaging organization_extra phone_number phone_sandbox service_location
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location_reverse	inverse of base schemastaging organization_extra phone_number phone_sandbox service_location
+/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	base schemastaging person_extra net_worth measurement_unit dated_money_value currency
+/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency_reverse	inverse of base schemastaging person_extra net_worth measurement_unit dated_money_value currency
+/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	base x2010fifaworldcupsouthafrica world_cup_squad current_world_cup_squad current_club
+/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club_reverse	inverse of base x2010fifaworldcupsouthafrica world_cup_squad current_world_cup_squad current_club
+/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season	baseball baseball_team team_stats baseball_team_stats season
+/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season_reverse	inverse of baseball baseball_team team_stats baseball_team_stats season
+/broadcast/content/artist	broadcast content artist
+/broadcast/content/artist_reverse	inverse of broadcast content artist
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	business business_operation assets measurement_unit dated_money_value currency
+/business/business_operation/assets./measurement_unit/dated_money_value/currency_reverse	inverse of business business_operation assets measurement_unit dated_money_value currency
+/business/business_operation/industry	business business_operation industry
+/business/business_operation/industry_reverse	inverse of business business_operation industry
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	business business_operation operating_income measurement_unit dated_money_value currency
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency_reverse	inverse of business business_operation operating_income measurement_unit dated_money_value currency
+/business/business_operation/revenue./measurement_unit/dated_money_value/currency	business business_operation revenue measurement_unit dated_money_value currency
+/business/business_operation/revenue./measurement_unit/dated_money_value/currency_reverse	inverse of business business_operation revenue measurement_unit dated_money_value currency
+/business/job_title/people_with_this_title./business/employment_tenure/company	business job_title people_with_this_title employment_tenure company
+/business/job_title/people_with_this_title./business/employment_tenure/company_reverse	inverse of business job_title people_with_this_title employment_tenure company
+/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	celebrities celebrity celebrity_friends friendship friend
+/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend_reverse	inverse of celebrities celebrity celebrity_friends friendship friend
+/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	celebrities celebrity sexual_relationships romantic_relationship
+/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity_reverse	inverse of celebrities celebrity sexual_relationships romantic_relationship
+/common/topic/webpage./common/webpage/category	common topic webpage category
+/common/topic/webpage./common/webpage/category_reverse	inverse of common topic webpage category
+/dataworld/gardening_hint/split_to	dataworld gardening_hint split_to
+/dataworld/gardening_hint/split_to_reverse	inverse of dataworld gardening_hint split_to
+/education/educational_degree/people_with_this_degree./education/education/institution	education educational_degree people_with_this_degree institution
+/education/educational_degree/people_with_this_degree./education/education/institution_reverse	inverse of education educational_degree people_with_this_degree institution
+/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	education educational_degree people_with_this_degree major_field_of_study
+/education/educational_degree/people_with_this_degree./education/education/major_field_of_study_reverse	inverse of education educational_degree people_with_this_degree major_field_of_study
+/education/educational_degree/people_with_this_degree./education/education/student	education educational_degree people_with_this_degree student
+/education/educational_degree/people_with_this_degree./education/education/student_reverse	inverse of education educational_degree people_with_this_degree student
+/education/educational_institution/campuses	education educational_institution campuses
+/education/educational_institution/campuses_reverse	inverse of education educational_institution campuses
+/education/educational_institution/colors	education educational_institution colors
+/education/educational_institution/colors_reverse	inverse of education educational_institution colors
+/education/educational_institution/school_type	education educational_institution school_type
+/education/educational_institution/school_type_reverse	inverse of education educational_institution school_type
+/education/educational_institution/students_graduates./education/education/major_field_of_study	education educational_institution students_graduates major_field_of_study
+/education/educational_institution/students_graduates./education/education/major_field_of_study_reverse	inverse of education educational_institution students_graduates major_field_of_study
+/education/educational_institution/students_graduates./education/education/student	education educational_institution students_graduates student
+/education/educational_institution/students_graduates./education/education/student_reverse	inverse of education educational_institution students_graduates student
+/education/educational_institution_campus/educational_institution	education educational_institution_campus educational_institution
+/education/educational_institution_campus/educational_institution_reverse	inverse of education educational_institution_campus educational_institution
+/education/field_of_study/students_majoring./education/education/major_field_of_study	education field_of_study students_majoring major_field_of_study
+/education/field_of_study/students_majoring./education/education/major_field_of_study_reverse	inverse of education field_of_study students_majoring major_field_of_study
+/education/field_of_study/students_majoring./education/education/student	education field_of_study students_majoring student
+/education/field_of_study/students_majoring./education/education/student_reverse	inverse of education field_of_study students_majoring student
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	education university domestic_tuition measurement_unit dated_money_value currency
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency_reverse	inverse of education university domestic_tuition measurement_unit dated_money_value currency
+/education/university/fraternities_and_sororities	education university fraternities_and_sororities
+/education/university/fraternities_and_sororities_reverse	inverse of education university fraternities_and_sororities
+/education/university/international_tuition./measurement_unit/dated_money_value/currency	education university international_tuition measurement_unit dated_money_value currency
+/education/university/international_tuition./measurement_unit/dated_money_value/currency_reverse	inverse of education university international_tuition measurement_unit dated_money_value currency
+/education/university/local_tuition./measurement_unit/dated_money_value/currency	education university local_tuition measurement_unit dated_money_value currency
+/education/university/local_tuition./measurement_unit/dated_money_value/currency_reverse	inverse of education university local_tuition measurement_unit dated_money_value currency
+/film/actor/dubbing_performances./film/dubbing_performance/language	film actor dubbing_performances dubbing_performance language
+/film/actor/dubbing_performances./film/dubbing_performance/language_reverse	inverse of film actor dubbing_performances dubbing_performance language
+/film/actor/film./film/performance/film	film actor performance
+/film/actor/film./film/performance/film_reverse	inverse of film actor performance
+/film/actor/film./film/performance/special_performance_type	film actor performance special_performance_type
+/film/actor/film./film/performance/special_performance_type_reverse	inverse of film actor performance special_performance_type
+/film/director/film	film director
+/film/director/film_reverse	inverse of film director
+/film/film/cinematography	film cinematography
+/film/film/cinematography_reverse	inverse of film cinematography
+/film/film/costume_design_by	film costume_design_by
+/film/film/costume_design_by_reverse	inverse of film costume_design_by
+/film/film/country	film country
+/film/film/country_reverse	inverse of film country
+/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium	film distributors film_film_distributor_relationship film_distribution_medium
+/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium_reverse	inverse of film distributors film_film_distributor_relationship film_distribution_medium
+/film/film/distributors./film/film_film_distributor_relationship/region	film distributors film_film_distributor_relationship region
+/film/film/distributors./film/film_film_distributor_relationship/region_reverse	inverse of film distributors film_film_distributor_relationship region
+/film/film/dubbing_performances./film/dubbing_performance/actor	film dubbing_performances dubbing_performance actor
+/film/film/dubbing_performances./film/dubbing_performance/actor_reverse	inverse of film dubbing_performances dubbing_performance actor
+/film/film/edited_by	film edited_by
+/film/film/edited_by_reverse	inverse of film edited_by
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	film estimated_budget measurement_unit dated_money_value currency
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency_reverse	inverse of film estimated_budget measurement_unit dated_money_value currency
+/film/film/executive_produced_by	film executive_produced_by
+/film/film/executive_produced_by_reverse	inverse of film executive_produced_by
+/film/film/featured_film_locations	film featured_film_locations
+/film/film/featured_film_locations_reverse	inverse of film featured_film_locations
+/film/film/film_art_direction_by	film film_art_direction_by
+/film/film/film_art_direction_by_reverse	inverse of film film_art_direction_by
+/film/film/film_festivals	film film_festivals
+/film/film/film_festivals_reverse	inverse of film film_festivals
+/film/film/film_format	film film_format
+/film/film/film_format_reverse	inverse of film film_format
+/film/film/film_production_design_by	film film_production_design_by
+/film/film/film_production_design_by_reverse	inverse of film film_production_design_by
+/film/film/genre	film genre
+/film/film/genre_reverse	inverse of film genre
+/film/film/language	film language
+/film/film/language_reverse	inverse of film language
+/film/film/music	film music
+/film/film/music_reverse	inverse of film music
+/film/film/other_crew./film/film_crew_gig/crewmember	film other_crew film_crew_gig crewmember
+/film/film/other_crew./film/film_crew_gig/crewmember_reverse	inverse of film other_crew film_crew_gig crewmember
+/film/film/other_crew./film/film_crew_gig/film_crew_role	film other_crew film_crew_gig film_crew_role
+/film/film/other_crew./film/film_crew_gig/film_crew_role_reverse	inverse of film other_crew film_crew_gig film_crew_role
+/film/film/personal_appearances./film/personal_film_appearance/person	film personal_appearances personal_film_appearance person
+/film/film/personal_appearances./film/personal_film_appearance/person_reverse	inverse of film personal_appearances personal_film_appearance person
+/film/film/prequel	film prequel
+/film/film/prequel_reverse	inverse of film prequel
+/film/film/produced_by	film produced_by
+/film/film/produced_by_reverse	inverse of film produced_by
+/film/film/production_companies	film production_companies
+/film/film/production_companies_reverse	inverse of film production_companies
+/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue	film release_date_s film_regional_release_date film_regional_debut_venue
+/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue_reverse	inverse of film release_date_s film_regional_release_date film_regional_debut_venue
+/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium	film release_date_s film_regional_release_date film_release_distribution_medium
+/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium_reverse	inverse of film release_date_s film_regional_release_date film_release_distribution_medium
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	film release_date_s film_regional_release_date film_release_region
+/film/film/release_date_s./film/film_regional_release_date/film_release_region_reverse	inverse of film release_date_s film_regional_release_date film_release_region
+/film/film/runtime./film/film_cut/film_release_region	film runtime film_cut film_release_region
+/film/film/runtime./film/film_cut/film_release_region_reverse	inverse of film runtime film_cut film_release_region
+/film/film/story_by	film story_by
+/film/film/story_by_reverse	inverse of film story_by
+/film/film/written_by	film written_by
+/film/film/written_by_reverse	inverse of film written_by
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	film film_distributor films_distributed film_film_distributor_relationship
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film_reverse	inverse of film film_distributor films_distributed film_film_distributor_relationship
+/film/film_set_designer/film_sets_designed	film film_set_designer film_sets_designed
+/film/film_set_designer/film_sets_designed_reverse	inverse of film film_set_designer film_sets_designed
+/film/film_subject/films	film film_subject films
+/film/film_subject/films_reverse	inverse of film film_subject films
+/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	film person_or_entity_appearing_in_film films personal_film_appearance type_of_appearance
+/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance_reverse	inverse of film person_or_entity_appearing_in_film films personal_film_appearance type_of_appearance
+/film/special_film_performance_type/film_performance_type./film/performance/film	film special_film_performance_type film_performance_type performance
+/film/special_film_performance_type/film_performance_type./film/performance/film_reverse	inverse of film special_film_performance_type film_performance_type performance
+/food/food/nutrients./food/nutrition_fact/nutrient	food nutrients nutrition_fact nutrient
+/food/food/nutrients./food/nutrition_fact/nutrient_reverse	inverse of food nutrients nutrition_fact nutrient
+/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	government government_office_category officeholders government_position_held jurisdiction_of_office
+/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office_reverse	inverse of government government_office_category officeholders government_position_held jurisdiction_of_office
+/government/governmental_body/members./government/government_position_held/legislative_sessions	government governmental_body members government_position_held legislative_sessions
+/government/governmental_body/members./government/government_position_held/legislative_sessions_reverse	inverse of government governmental_body members government_position_held legislative_sessions
+/government/legislative_session/members./government/government_position_held/district_represented	government legislative_session members government_position_held district_represented
+/government/legislative_session/members./government/government_position_held/district_represented_reverse	inverse of government legislative_session members government_position_held district_represented
+/government/legislative_session/members./government/government_position_held/legislative_sessions	government legislative_session members government_position_held legislative_sessions
+/government/legislative_session/members./government/government_position_held/legislative_sessions_reverse	inverse of government legislative_session members government_position_held legislative_sessions
+/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	government political_party politicians_in_this_party political_party_tenure politician
+/government/political_party/politicians_in_this_party./government/political_party_tenure/politician_reverse	inverse of government political_party politicians_in_this_party political_party_tenure politician
+/government/politician/government_positions_held./government/government_position_held/basic_title	government politician government_positions_held government_position_held basic_title
+/government/politician/government_positions_held./government/government_position_held/basic_title_reverse	inverse of government politician government_positions_held government_position_held basic_title
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	government politician government_positions_held government_position_held jurisdiction_of_office
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office_reverse	inverse of government politician government_positions_held government_position_held jurisdiction_of_office
+/government/politician/government_positions_held./government/government_position_held/legislative_sessions	government politician government_positions_held government_position_held legislative_sessions
+/government/politician/government_positions_held./government/government_position_held/legislative_sessions_reverse	inverse of government politician government_positions_held government_position_held legislative_sessions
+/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	ice_hockey hockey_team current_roster sports sports_team_roster position
+/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position_reverse	inverse of ice_hockey hockey_team current_roster sports sports_team_roster position
+/influence/influence_node/influenced_by	influence influence_node influenced_by
+/influence/influence_node/influenced_by_reverse	inverse of influence influence_node influenced_by
+/influence/influence_node/peers./influence/peer_relationship/peers	influence influence_node peers peer_relationship
+/influence/influence_node/peers./influence/peer_relationship/peers_reverse	inverse of influence influence_node peers peer_relationship
+/language/human_language/countries_spoken_in	language human_language countries_spoken_in
+/language/human_language/countries_spoken_in_reverse	inverse of language human_language countries_spoken_in
+/location/administrative_division/country	location administrative_division country
+/location/administrative_division/country_reverse	inverse of location administrative_division country
+/location/administrative_division/first_level_division_of	location administrative_division first_level_division_of
+/location/administrative_division/first_level_division_of_reverse	inverse of location administrative_division first_level_division_of
+/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	location capital_of_administrative_division capital_of administrative_division_capital_relationship administrative_division
+/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division_reverse	inverse of location capital_of_administrative_division capital_of administrative_division_capital_relationship administrative_division
+/location/country/capital	location country capital
+/location/country/capital_reverse	inverse of location country capital
+/location/country/form_of_government	location country form_of_government
+/location/country/form_of_government_reverse	inverse of location country form_of_government
+/location/country/official_language	location country official_language
+/location/country/official_language_reverse	inverse of location country official_language
+/location/country/second_level_divisions	location country second_level_divisions
+/location/country/second_level_divisions_reverse	inverse of location country second_level_divisions
+/location/hud_county_place/county	location hud_county_place county
+/location/hud_county_place/county_reverse	inverse of location hud_county_place county
+/location/hud_county_place/place	location hud_county_place place
+/location/hud_county_place/place_reverse	inverse of location hud_county_place place
+/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	location hud_foreclosure_area estimated_number_of_mortgages measurement_unit dated_integer source
+/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source_reverse	inverse of location hud_foreclosure_area estimated_number_of_mortgages measurement_unit dated_integer source
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	location adjoin_s adjoining_relationship adjoins
+/location/location/adjoin_s./location/adjoining_relationship/adjoins_reverse	inverse of location adjoin_s adjoining_relationship adjoins
+/location/location/contains	location contains
+/location/location/contains_reverse	inverse of location contains
+/location/location/partially_contains	location partially_contains
+/location/location/partially_contains_reverse	inverse of location partially_contains
+/location/location/time_zones	location time_zones
+/location/location/time_zones_reverse	inverse of location time_zones
+/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	location statistical_region gdp_nominal measurement_unit dated_money_value currency
+/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency_reverse	inverse of location statistical_region gdp_nominal measurement_unit dated_money_value currency
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	location statistical_region gdp_nominal_per_capita measurement_unit dated_money_value currency
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency_reverse	inverse of location statistical_region gdp_nominal_per_capita measurement_unit dated_money_value currency
+/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	location statistical_region gdp_real measurement_unit adjusted_money_value adjustment_currency
+/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency_reverse	inverse of location statistical_region gdp_real measurement_unit adjusted_money_value adjustment_currency
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	location statistical_region gni_per_capita_in_ppp_dollars measurement_unit dated_money_value currency
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency_reverse	inverse of location statistical_region gni_per_capita_in_ppp_dollars measurement_unit dated_money_value currency
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	location statistical_region places_exported_to imports_and_exports exported_to
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to_reverse	inverse of location statistical_region places_exported_to imports_and_exports exported_to
+/location/statistical_region/religions./location/religion_percentage/religion	location statistical_region religions religion_percentage religion
+/location/statistical_region/religions./location/religion_percentage/religion_reverse	inverse of location statistical_region religions religion_percentage religion
+/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency	location statistical_region rent50_2 measurement_unit dated_money_value currency
+/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency_reverse	inverse of location statistical_region rent50_2 measurement_unit dated_money_value currency
+/location/us_county/county_seat	location us_county county_seat
+/location/us_county/county_seat_reverse	inverse of location us_county county_seat
+/media_common/netflix_genre/titles	media_common netflix_genre titles
+/media_common/netflix_genre/titles_reverse	inverse of media_common netflix_genre titles
+/medicine/disease/notable_people_with_this_condition	medicine disease notable_people_with_this_condition
+/medicine/disease/notable_people_with_this_condition_reverse	inverse of medicine disease notable_people_with_this_condition
+/medicine/disease/risk_factors	medicine disease risk_factors
+/medicine/disease/risk_factors_reverse	inverse of medicine disease risk_factors
+/medicine/symptom/symptom_of	medicine symptom symptom_of
+/medicine/symptom/symptom_of_reverse	inverse of medicine symptom symptom_of
+/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	military military_combatant military_conflicts military_combatant_group combatants
+/military/military_combatant/military_conflicts./military/military_combatant_group/combatants_reverse	inverse of military military_combatant military_conflicts military_combatant_group combatants
+/military/military_conflict/combatants./military/military_combatant_group/combatants	military military_conflict combatants military_combatant_group
+/military/military_conflict/combatants./military/military_combatant_group/combatants_reverse	inverse of military military_conflict combatants military_combatant_group
+/music/artist/contribution./music/recording_contribution/performance_role	music artist contribution recording_contribution performance_role
+/music/artist/contribution./music/recording_contribution/performance_role_reverse	inverse of music artist contribution recording_contribution performance_role
+/music/artist/origin	music artist origin
+/music/artist/origin_reverse	inverse of music artist origin
+/music/artist/track_contributions./music/track_contribution/role	music artist track_contributions track_contribution role
+/music/artist/track_contributions./music/track_contribution/role_reverse	inverse of music artist track_contributions track_contribution role
+/music/genre/artists	music genre artists
+/music/genre/artists_reverse	inverse of music genre artists
+/music/genre/parent_genre	music genre parent_genre
+/music/genre/parent_genre_reverse	inverse of music genre parent_genre
+/music/group_member/membership./music/group_membership/group	music group_member membership group_membership group
+/music/group_member/membership./music/group_membership/group_reverse	inverse of music group_member membership group_membership group
+/music/group_member/membership./music/group_membership/role	music group_member membership group_membership role
+/music/group_member/membership./music/group_membership/role_reverse	inverse of music group_member membership group_membership role
+/music/instrument/family	music instrument family
+/music/instrument/family_reverse	inverse of music instrument family
+/music/instrument/instrumentalists	music instrument instrumentalists
+/music/instrument/instrumentalists_reverse	inverse of music instrument instrumentalists
+/music/performance_role/guest_performances./music/recording_contribution/performance_role	music performance_role guest_performances recording_contribution
+/music/performance_role/guest_performances./music/recording_contribution/performance_role_reverse	inverse of music performance_role guest_performances recording_contribution
+/music/performance_role/regular_performances./music/group_membership/group	music performance_role regular_performances group_membership group
+/music/performance_role/regular_performances./music/group_membership/group_reverse	inverse of music performance_role regular_performances group_membership group
+/music/performance_role/regular_performances./music/group_membership/role	music performance_role regular_performances group_membership role
+/music/performance_role/regular_performances./music/group_membership/role_reverse	inverse of music performance_role regular_performances group_membership role
+/music/performance_role/track_performances./music/track_contribution/role	music performance_role track_performances track_contribution role
+/music/performance_role/track_performances./music/track_contribution/role_reverse	inverse of music performance_role track_performances track_contribution role
+/music/record_label/artist	music record_label artist
+/music/record_label/artist_reverse	inverse of music record_label artist
+/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	olympics olympic_games medals_awarded olympic_medal_honor medal
+/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal_reverse	inverse of olympics olympic_games medals_awarded olympic_medal_honor medal
+/olympics/olympic_games/participating_countries	olympics olympic_games participating_countries
+/olympics/olympic_games/participating_countries_reverse	inverse of olympics olympic_games participating_countries
+/olympics/olympic_games/sports	olympics olympic_games sports
+/olympics/olympic_games/sports_reverse	inverse of olympics olympic_games sports
+/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	olympics olympic_participating_country athletes olympic_athlete_affiliation
+/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics_reverse	inverse of olympics olympic_participating_country athletes olympic_athlete_affiliation
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal	olympics olympic_participating_country medals_won olympic_medal_honor medal
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal_reverse	inverse of olympics olympic_participating_country medals_won olympic_medal_honor medal
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	olympics olympic_participating_country medals_won olympic_medal_honor
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics_reverse	inverse of olympics olympic_participating_country medals_won olympic_medal_honor
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	olympics olympic_sport athletes olympic_athlete_affiliation country
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country_reverse	inverse of olympics olympic_sport athletes olympic_athlete_affiliation country
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	olympics olympic_sport athletes olympic_athlete_affiliation
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics_reverse	inverse of olympics olympic_sport athletes olympic_athlete_affiliation
+/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	organization endowed_organization endowment measurement_unit dated_money_value currency
+/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency_reverse	inverse of organization endowed_organization endowment measurement_unit dated_money_value currency
+/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency	organization non_profit_organization registered_with non_profit_registration registering_agency
+/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency_reverse	inverse of organization non_profit_organization registered_with non_profit_registration registering_agency
+/organization/organization/child./organization/organization_relationship/child	organization child organization_relationship
+/organization/organization/child./organization/organization_relationship/child_reverse	inverse of organization child organization_relationship
+/organization/organization/headquarters./location/mailing_address/citytown	organization headquarters location mailing_address citytown
+/organization/organization/headquarters./location/mailing_address/citytown_reverse	inverse of organization headquarters location mailing_address citytown
+/organization/organization/headquarters./location/mailing_address/country	organization headquarters location mailing_address country
+/organization/organization/headquarters./location/mailing_address/country_reverse	inverse of organization headquarters location mailing_address country
+/organization/organization/headquarters./location/mailing_address/state_province_region	organization headquarters location mailing_address state_province_region
+/organization/organization/headquarters./location/mailing_address/state_province_region_reverse	inverse of organization headquarters location mailing_address state_province_region
+/organization/organization/place_founded	organization place_founded
+/organization/organization/place_founded_reverse	inverse of organization place_founded
+/organization/organization_founder/organizations_founded	organization organization_founder organizations_founded
+/organization/organization_founder/organizations_founded_reverse	inverse of organization organization_founder organizations_founded
+/organization/organization_member/member_of./organization/organization_membership/organization	organization organization_member member_of organization_membership
+/organization/organization_member/member_of./organization/organization_membership/organization_reverse	inverse of organization organization_member member_of organization_membership
+/organization/role/leaders./organization/leadership/organization	organization role leaders leadership
+/organization/role/leaders./organization/leadership/organization_reverse	inverse of organization role leaders leadership
+/people/cause_of_death/people	people cause_of_death
+/people/cause_of_death/people_reverse	inverse of people cause_of_death
+/people/deceased_person/place_of_burial	people deceased_person place_of_burial
+/people/deceased_person/place_of_burial_reverse	inverse of people deceased_person place_of_burial
+/people/deceased_person/place_of_death	people deceased_person place_of_death
+/people/deceased_person/place_of_death_reverse	inverse of people deceased_person place_of_death
+/people/ethnicity/geographic_distribution	people ethnicity geographic_distribution
+/people/ethnicity/geographic_distribution_reverse	inverse of people ethnicity geographic_distribution
+/people/ethnicity/languages_spoken	people ethnicity languages_spoken
+/people/ethnicity/languages_spoken_reverse	inverse of people ethnicity languages_spoken
+/people/ethnicity/people	people ethnicity
+/people/ethnicity/people_reverse	inverse of people ethnicity
+/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	people marriage_union_type unions_of_this_type marriage location_of_ceremony
+/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony_reverse	inverse of people marriage_union_type unions_of_this_type marriage location_of_ceremony
+/people/person/employment_history./business/employment_tenure/company	people person employment_history business employment_tenure company
+/people/person/employment_history./business/employment_tenure/company_reverse	inverse of people person employment_history business employment_tenure company
+/people/person/gender	people person gender
+/people/person/gender_reverse	inverse of people person gender
+/people/person/languages	people person languages
+/people/person/languages_reverse	inverse of people person languages
+/people/person/nationality	people person nationality
+/people/person/nationality_reverse	inverse of people person nationality
+/people/person/place_of_birth	people person place_of_birth
+/people/person/place_of_birth_reverse	inverse of people person place_of_birth
+/people/person/places_lived./people/place_lived/location	people person places_lived place_lived location
+/people/person/places_lived./people/place_lived/location_reverse	inverse of people person places_lived place_lived location
+/people/person/profession	people person profession
+/people/person/profession_reverse	inverse of people person profession
+/people/person/religion	people person religion
+/people/person/religion_reverse	inverse of people person religion
+/people/person/sibling_s./people/sibling_relationship/sibling	people person sibling_s sibling_relationship sibling
+/people/person/sibling_s./people/sibling_relationship/sibling_reverse	inverse of people person sibling_s sibling_relationship sibling
+/people/person/spouse_s./people/marriage/location_of_ceremony	people person spouse_s marriage location_of_ceremony
+/people/person/spouse_s./people/marriage/location_of_ceremony_reverse	inverse of people person spouse_s marriage location_of_ceremony
+/people/person/spouse_s./people/marriage/spouse	people person spouse_s marriage spouse
+/people/person/spouse_s./people/marriage/spouse_reverse	inverse of people person spouse_s marriage spouse
+/people/person/spouse_s./people/marriage/type_of_union	people person spouse_s marriage type_of_union
+/people/person/spouse_s./people/marriage/type_of_union_reverse	inverse of people person spouse_s marriage type_of_union
+/people/profession/specialization_of	people profession specialization_of
+/people/profession/specialization_of_reverse	inverse of people profession specialization_of
+/soccer/football_player/current_team./sports/sports_team_roster/team	soccer football_player current_team sports sports_team_roster team
+/soccer/football_player/current_team./sports/sports_team_roster/team_reverse	inverse of soccer football_player current_team sports sports_team_roster team
+/soccer/football_team/current_roster./soccer/football_roster_position/position	soccer football_team current_roster football_roster_position position
+/soccer/football_team/current_roster./soccer/football_roster_position/position_reverse	inverse of soccer football_team current_roster football_roster_position position
+/soccer/football_team/current_roster./sports/sports_team_roster/position	soccer football_team current_roster sports sports_team_roster position
+/soccer/football_team/current_roster./sports/sports_team_roster/position_reverse	inverse of soccer football_team current_roster sports sports_team_roster position
+/sports/pro_athlete/teams./sports/sports_team_roster/team	sports pro_athlete teams sports_team_roster team
+/sports/pro_athlete/teams./sports/sports_team_roster/team_reverse	inverse of sports pro_athlete teams sports_team_roster team
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft	sports professional_sports_team draft_picks sports_league_draft_pick draft
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft_reverse	inverse of sports professional_sports_team draft_picks sports_league_draft_pick draft
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school	sports professional_sports_team draft_picks sports_league_draft_pick school
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school_reverse	inverse of sports professional_sports_team draft_picks sports_league_draft_pick school
+/sports/sport/pro_athletes./sports/pro_sports_played/athlete	sports sport pro_athletes pro_sports_played athlete
+/sports/sport/pro_athletes./sports/pro_sports_played/athlete_reverse	inverse of sports sport pro_athletes pro_sports_played athlete
+/sports/sports_league/teams./sports/sports_league_participation/team	sports sports_league teams sports_league_participation team
+/sports/sports_league/teams./sports/sports_league_participation/team_reverse	inverse of sports sports_league teams sports_league_participation team
+/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school	sports sports_league_draft picks sports_league_draft_pick school
+/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school_reverse	inverse of sports sports_league_draft picks sports_league_draft_pick school
+/sports/sports_position/players./american_football/football_historical_roster_position/position_s	sports sports_position players american_football football_historical_roster_position position_s
+/sports/sports_position/players./american_football/football_historical_roster_position/position_s_reverse	inverse of sports sports_position players american_football football_historical_roster_position position_s
+/sports/sports_position/players./sports/sports_team_roster/position	sports sports_position players sports_team_roster position
+/sports/sports_position/players./sports/sports_team_roster/position_reverse	inverse of sports sports_position players sports_team_roster position
+/sports/sports_position/players./sports/sports_team_roster/team	sports sports_position players sports_team_roster team
+/sports/sports_position/players./sports/sports_team_roster/team_reverse	inverse of sports sports_position players sports_team_roster team
+/sports/sports_team/colors	sports sports_team colors
+/sports/sports_team/colors_reverse	inverse of sports sports_team colors
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	sports sports_team roster american_football football_historical_roster_position position_s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s_reverse	inverse of sports sports_team roster american_football football_historical_roster_position position_s
+/sports/sports_team/roster./american_football/football_roster_position/position	sports sports_team roster american_football football_roster_position position
+/sports/sports_team/roster./american_football/football_roster_position/position_reverse	inverse of sports sports_team roster american_football football_roster_position position
+/sports/sports_team/roster./baseball/baseball_roster_position/position	sports sports_team roster baseball baseball_roster_position position
+/sports/sports_team/roster./baseball/baseball_roster_position/position_reverse	inverse of sports sports_team roster baseball baseball_roster_position position
+/sports/sports_team/roster./basketball/basketball_roster_position/position	sports sports_team roster basketball basketball_roster_position position
+/sports/sports_team/roster./basketball/basketball_roster_position/position_reverse	inverse of sports sports_team roster basketball basketball_roster_position position
+/sports/sports_team/sport	sports sports_team sport
+/sports/sports_team/sport_reverse	inverse of sports sports_team sport
+/sports/sports_team_location/teams	sports sports_team_location teams
+/sports/sports_team_location/teams_reverse	inverse of sports sports_team_location teams
+/time/event/instance_of_recurring_event	time event instance_of_recurring_event
+/time/event/instance_of_recurring_event_reverse	inverse of time event instance_of_recurring_event
+/time/event/locations	time event locations
+/time/event/locations_reverse	inverse of time event locations
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	travel travel_destination climate travel_destination_monthly_climate month
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month_reverse	inverse of travel travel_destination climate travel_destination_monthly_climate month
+/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	travel travel_destination how_to_get_here transportation mode_of_transportation
+/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation_reverse	inverse of travel travel_destination how_to_get_here transportation mode_of_transportation
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	tv non_character_role tv_regular_personal_appearances tv_regular_personal_appearance person
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person_reverse	inverse of tv non_character_role tv_regular_personal_appearances tv_regular_personal_appearance person
+/tv/tv_network/programs./tv/tv_network_duration/program	tv tv_network programs tv_network_duration program
+/tv/tv_network/programs./tv/tv_network_duration/program_reverse	inverse of tv tv_network programs tv_network_duration program
+/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	tv tv_personality tv_regular_appearances tv_regular_personal_appearance program
+/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program_reverse	inverse of tv tv_personality tv_regular_appearances tv_regular_personal_appearance program
+/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type	tv tv_producer programs_produced tv_producer_term producer_type
+/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type_reverse	inverse of tv tv_producer programs_produced tv_producer_term producer_type
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	tv tv_producer programs_produced tv_producer_term program
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program_reverse	inverse of tv tv_producer programs_produced tv_producer_term program
+/tv/tv_program/country_of_origin	tv tv_program country_of_origin
+/tv/tv_program/country_of_origin_reverse	inverse of tv tv_program country_of_origin
+/tv/tv_program/genre	tv tv_program genre
+/tv/tv_program/genre_reverse	inverse of tv tv_program genre
+/tv/tv_program/languages	tv tv_program languages
+/tv/tv_program/languages_reverse	inverse of tv tv_program languages
+/tv/tv_program/program_creator	tv tv_program program_creator
+/tv/tv_program/program_creator_reverse	inverse of tv tv_program program_creator
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	tv tv_program regular_cast regular_tv_appearance actor
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor_reverse	inverse of tv tv_program regular_cast regular_tv_appearance actor
+/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type	tv tv_program tv_producer tv_producer_term producer_type
+/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type_reverse	inverse of tv tv_program tv_producer tv_producer_term producer_type
+/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	tv tv_writer tv_programs tv_program_writer_relationship tv_program
+/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program_reverse	inverse of tv tv_writer tv_programs tv_program_writer_relationship tv_program
+/user/alexander/philosophy/philosopher/interests	user alexander philosophy philosopher interests
+/user/alexander/philosophy/philosopher/interests_reverse	inverse of user alexander philosophy philosopher interests
+/user/jg/default_domain/olympic_games/sports	user jg default_domain olympic_games sports
+/user/jg/default_domain/olympic_games/sports_reverse	inverse of user jg default_domain olympic_games sports
+/user/ktrueman/default_domain/international_organization/member_states	user ktrueman default_domain international_organization member_states
+/user/ktrueman/default_domain/international_organization/member_states_reverse	inverse of user ktrueman default_domain international_organization member_states
+/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	user tsegaran random taxonomy_subject entry taxonomy_entry taxonomy
+/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy_reverse	inverse of user tsegaran random taxonomy_subject entry taxonomy_entry taxonomy
