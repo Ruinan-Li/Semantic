@@ -1,0 +1,102 @@
+P101	P101
+P101_reverse	inverse of P101
+P102	P102
+P102_reverse	inverse of P102
+P1050	P1050
+P1050_reverse	inverse of P1050
+P1056	P1056
+P1056_reverse	inverse of P1056
+P106	P106
+P106_reverse	inverse of P106
+P108	P108
+P108_reverse	inverse of P108
+P112	P112
+P112_reverse	inverse of P112
+P113	P113
+P113_reverse	inverse of P113
+P119	P119
+P119_reverse	inverse of P119
+P1303	P1303
+P1303_reverse	inverse of P1303
+P131	P131
+P131_reverse	inverse of P131
+P135	P135
+P135_reverse	inverse of P135
+P136	P136
+P136_reverse	inverse of P136
+P138	P138
+P138_reverse	inverse of P138
+P140	P140
+P140_reverse	inverse of P140
+P1412	P1412
+P1412_reverse	inverse of P1412
+P159	P159
+P159_reverse	inverse of P159
+P161	P161
+P161_reverse	inverse of P161
+P17	P17
+P172	P172
+P172_reverse	inverse of P172
+P17_reverse	inverse of P17
+P19	P19
+P19_reverse	inverse of P19
+P20	P20
+P20_reverse	inverse of P20
+P2283	P2283
+P2283_reverse	inverse of P2283
+P2348	P2348
+P2348_reverse	inverse of P2348
+P26	P26
+P264	P264
+P264_reverse	inverse of P264
+P26_reverse	inverse of P26
+P27	P27
+P27_reverse	inverse of P27
+P30	P30
+P3095	P3095
+P3095_reverse	inverse of P3095
+P30_reverse	inverse of P30
+P3373	P3373
+P3373_reverse	inverse of P3373
+P361	P361
+P361_reverse	inverse of P361
+P37	P37
+P37_reverse	inverse of P37
+P40	P40
+P407	P407
+P407_reverse	inverse of P407
+P40_reverse	inverse of P40
+P451	P451
+P451_reverse	inverse of P451
+P452	P452
+P452_reverse	inverse of P452
+P463	P463
+P463_reverse	inverse of P463
+P495	P495
+P495_reverse	inverse of P495
+P50	P50
+P509	P509
+P509_reverse	inverse of P509
+P50_reverse	inverse of P50
+P530	P530
+P530_reverse	inverse of P530
+P54	P54
+P54_reverse	inverse of P54
+P551	P551
+P551_reverse	inverse of P551
+P57	P57
+P57_reverse	inverse of P57
+P641	P641
+P641_reverse	inverse of P641
+P69	P69
+P69_reverse	inverse of P69
+P737	P737
+P737_reverse	inverse of P737
+P740	P740
+P740_reverse	inverse of P740
+P749	P749
+P749_reverse	inverse of P749
+P780	P780
+P780_reverse	inverse of P780
+P840	P840
+P840_reverse	inverse of P840
